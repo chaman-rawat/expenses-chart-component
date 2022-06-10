@@ -1,0 +1,18 @@
+.mybalance {
+  background-color: hsl(var(--clr-soft-red));
+  color: hsl(var(--clr-very-pale-orange));
+  margin-bottom: 1.25rem;
+}
+
+.mybalance > div {
+  line-height: 0.6;
+}
+
+.mybalance h2 {
+  font-size: 1.65rem;
+}
+
+.mybalance p {
+  font-size: 0.9rem;
+  color: hsl(var(--clr-very-pale-orange));
+}

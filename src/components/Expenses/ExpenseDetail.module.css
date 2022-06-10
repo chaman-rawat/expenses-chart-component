@@ -1,0 +1,30 @@
+.details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.details p {
+  font-size: 0.9rem;
+  color: hsl(var(--clr-medium-brown));
+  letter-spacing: 1px;
+}
+
+.details h2,
+.details h4 {
+  color: hsl(var(--clr-dark-brown));
+}
+
+.left {
+  line-height: 0;
+}
+
+.left h2 {
+  font-size: 2.6rem;
+}
+
+.right {
+  text-align: right;
+  line-height: 0;
+}

@@ -1,0 +1,15 @@
+.Expenses {
+  background-color: hsl(var(--clr-very-pale-orange));
+}
+
+.Expenses > h2 {
+  font-size: 1.65rem;
+  color: hsl(var(--clr-dark-brown));
+  margin-bottom: 3.5rem;
+  letter-spacing: 0.5px;
+}
+
+hr {
+  margin-block: 1.5rem;
+  border: 1px solid hsl(var(--clr-cream));
+}
